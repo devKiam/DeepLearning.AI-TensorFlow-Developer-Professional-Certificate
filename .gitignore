@@ -2,3 +2,9 @@
 __pycache__
 .ipynb_checkpoints
 .DS_Store
+mnist.npz
+horse-or-human
+validation-horse-or-human
+tmp
+cats_and_dogs_filtered
+cats_and_dogs_filtered.zip

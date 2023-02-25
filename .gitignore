@@ -4,6 +4,8 @@ __pycache__
 .DS_Store
 mnist.npz
 horse-or-human
+horse-or-human.zip
+validation-horse-or-human.zip
 validation-horse-or-human
 tmp
 cats_and_dogs_filtered
